@@ -1,7 +1,7 @@
 <div align="center">
     <h6>💖</h6>
-    <a href="https://x.com/GenshinImpact/status/1944970201335836804">
-      <img width="1000" height="1000" alt="Hu Tao" src="https://github.com/user-attachments/assets/097118a4-210c-40c1-af8f-af96fb0d2fe2" />
+    <a>
+        <img width="2560" height="1440" alt="Hu Tao" src="https://github.com/user-attachments/assets/c4fefac6-e821-4bcb-9518-239748742a8e" />
     </a>
 </div>
 
