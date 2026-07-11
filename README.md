@@ -1,12 +1,18 @@
 <div align="center">
-    <h6>💖</h6>
-    <a>
-        <img width="2560" height="1440" alt="Hu Tao" src="https://github.com/user-attachments/assets/c4fefac6-e821-4bcb-9518-239748742a8e" />
+    <h6>💖🎀</h6>
+        <img width="2520" height="1440" alt="mizuki" src="https://github.com/user-attachments/assets/92bbf9b5-f3ae-401c-8e0f-f889bf698654" />
     </a>
 </div>
 
 ---
 
-<h3>Haii :3</h3>
+<h5>Haii :3</h5>
 
-I'm Nutt (aka. cherrblyria), nothing much to say here.
+It's me Nutt<sup>aka. cherrblyria</sup> Linux larper, Perfectionist, Rhyme games player.
+
+I'm silly and horribly bad at programing but also enjoy ricing rabbit hole.\
+u can check out my <a href="https://github.com/midnight-bloom/"><i>current</i> rice</a> btw.
+
+<h5>Stack >^<</h5>
+
+Nothing, just empty brain :3
