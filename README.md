@@ -11,7 +11,8 @@
 It's me Nutt<sup>aka. cherrblyria</sup> Linux larper, Perfectionist, Rhyme games player.
 
 I'm silly and horribly bad at programing but also enjoy ricing rabbit hole.\
-u can check out my <a href="https://github.com/cherrblyria/midnight-bloom"><i>current</i> rice</a> btw.
+u can check out my <a href="https://github.com/cherrblyria/midnight-bloom"><i>current</i> rice</a> btw.\
+and also <a href="https://cherrblyria.github.io/_/">my portfolio</a>
 
 <h5>Stack >^<</h5>
 
