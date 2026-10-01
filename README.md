@@ -20,4 +20,6 @@
 
 ---
 
+<img width="150" alt="Kemomimi-chan" src="https://github.com/user-attachments/assets/bf03476a-f16e-4ef4-a723-f8700751dcf9" /><img width="150" alt="evernight" src="https://github.com/user-attachments/assets/e7ba7078-4d36-4a6f-ad60-5eb99e51bc15" />
+
 🚧 This Readme is under contractions 🚧
