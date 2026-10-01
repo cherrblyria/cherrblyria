@@ -1,8 +1,8 @@
 
 <div align="center">
     <h6>💖🎀</h6>
-    <a href="https://www.sekaipedia.org/wiki/The_Hard_Work_and_Struggle_of_Making_Clothes">
-        <img alt="akiyama mizuki from project sekai" src="https://github.com/user-attachments/assets/92bbf9b5-f3ae-401c-8e0f-f889bf698654" />
+    <a href="https://sekai.best/card/1165">
+        <img alt="akiyama mizuki from project sekai" src="https://storage.sekai.best/sekai-jp-assets/character/member/res020_no044/card_after_training.png" />
     </a>
     <h6>- Akiyama Mizuki my beloved -</h6>
 </div>
