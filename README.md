@@ -1,9 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&pause=1000&color=F7DAE6&center=true&width=435&lines=It's+me+Nutt%28y%29+aka.+Cherrblyria+%F0%9F%8C%B8;NixOS+user+%E2%80%A2+Rhythm+game+player+%E2%9D%84%EF%B8%8F%F0%9F%8D%A1;MizuEna+biggest+fan+%F0%9F%8E%80%F0%9F%8E%A8;alive+KanaMafu+shipper+%F0%9F%8E%BC%E2%9D%84%EF%B8%8F;Just+Mizuki...+%F0%9F%8E%80%E2%9C%A8)](https://git.io/typing-svg)
-
 <div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&pause=1000&color=F7DAE6&center=true&width=435&lines=It's+me+Nutt%28y%29+aka.+Cherrblyria+%F0%9F%8C%B8;NixOS+user+%E2%80%A2+Rhythm+game+player+%E2%9D%84%EF%B8%8F%F0%9F%8D%A1;MizuEna+biggest+fan+%F0%9F%8E%80%F0%9F%8E%A8;alive+KanaMafu+shipper+%F0%9F%8E%BC%E2%9D%84%EF%B8%8F" alt="Typing SVG" /></a>
     <h6>💖🎀</h6>
     <a href="https://sekai.best/card/1165">
-        <img alt="akiyama mizuki from project sekai" src="https://storage.sekai.best/sekai-jp-assets/character/member/res020_no044/card_after_training.png" />
+        <img alt="Akiyama Mizuki from project sekai" src="https://storage.sekai.best/sekai-jp-assets/character/member/res020_no044/card_after_training.png" />
     </a>
     <h6>- Akiyama Mizuki my beloved -</h6>
 </div>
