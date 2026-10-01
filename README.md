@@ -9,7 +9,7 @@
 
 ---
 
-##### I luv moosic
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=16&pause=1000&color=DADADA&width=435&lines=I+luv+moosic+%F0%9F%8E%B6%F0%9F%8E%A7;can't+live+without+Spotify+%F0%9F%92%9A;it's+like+Toxic+yuri+but...+%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%A9%B9;kinda+worse+%F0%9F%A5%80" alt="Typing SVG" /></a>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3134rqcndqsafrhlv36ncvktslei&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=3134rqcndqsafrhlv36ncvktslei&redirect=true)
 
