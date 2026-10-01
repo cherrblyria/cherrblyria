@@ -9,4 +9,5 @@
 
 ---
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=cherrblyria&custom_title=Numbers&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=cherrblyria&custom_title=Numbers&show_icons=true&include_all_commits=true&theme=dark) [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=cherrblyria&layout=compact&langs_count=10&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=cherrblyria&layout=compact&langs_count=10&theme=dark)
+| [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=cherrblyria&custom_title=Numbers&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=cherrblyria&custom_title=Numbers&show_icons=true&include_all_commits=true&theme=dark) | [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=cherrblyria&layout=compact&langs_count=10&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=cherrblyria&layout=compact&langs_count=10&theme=dark) |
+| --- | --- |
