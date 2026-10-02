@@ -13,6 +13,8 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3134rqcndqsafrhlv36ncvktslei&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=3134rqcndqsafrhlv36ncvktslei&redirect=true)
 
+---
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=16&pause=1000&color=DADADA&width=435&lines=Statistics+%F0%9F%93%8A;My+GitHub's+Statistics+%F0%9F%96%A4;Look+useless+ngl+%F0%9F%98%94%E2%9C%8C%EF%B8%8F" alt="Typing SVG" /></a>
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=cherrblyria&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&theme=github_dark_dimmed)](https://github-stats-extended.vercel.app/api?username=cherrblyria&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&theme=github_dark_dimmed) [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=cherrblyria&layout=compact&langs_count=10&theme=github_dark_dimmed)](https://github-stats-extended.vercel.app/api/top-langs?username=cherrblyria&layout=compact&langs_count=10&theme=github_dark_dimmed)
