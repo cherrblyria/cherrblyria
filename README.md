@@ -19,6 +19,18 @@
 
 ---
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=16&pause=1000&color=DADADA&width=435&lines=Featured+Projects+%E2%9C%A8;Actually+all+of+my+projects+%F0%9F%99%83;I+only+have+a+few+projects+%F0%9F%92%95)](https://git.io/typing-svg)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=cherrblyria&repo=cherrblyria%2Fkawa&theme=github_dark_dimmed)](https://github.com/cherrblyria/kawa) [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=cherrblyria&repo=cherrblyria.github.io&theme=github_dark_dimmed)](https://github.com/cherrblyria/cherrblyria.github.io) [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=cherrblyria&repo=cherrblyria%2Fpymoro&theme=github_dark_dimmed)](https://github.com/cherrblyria/pymoro) [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=cherrblyria&repo=stary&theme=github_dark_dimmed)](https://github.com/cherrblyria/stary)
+
+---
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=16&pause=1000&color=DADADA&width=435&lines=Rice+Archive+%F0%9F%90%A7;There're+more+but+I+didn't+save+it+%F0%9F%98%94;It+didn't+look+so+good+actually+%F0%9F%A5%B1;So+here're+worth+saving+Rices+%F0%9F%8D%9A)](https://git.io/typing-svg)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=cherrblyria&repo=cherrblyria%2Fharuka&theme=github_dark_dimmed)](https://github.com/cherrblyria/haruka) [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=cherrblyria&repo=cherrblyria%2Fmidnight-bloom&theme=github_dark_dimmed)](https://github.com/cherrblyria/midnight-bloom) [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=cherrblyria&repo=cherrblyria%2Fangel-arch&theme=github_dark_dimmed)](https://github.com/cherrblyria/angel-arch)
+
+---
+
 <img width="150" alt="Kemomimi-chan" src="https://github.com/user-attachments/assets/bf03476a-f16e-4ef4-a723-f8700751dcf9" /><img width="150" alt="evernight" src="https://github.com/user-attachments/assets/e7ba7078-4d36-4a6f-ad60-5eb99e51bc15" />
 
 🚧 This Readme is under contractions 🚧
