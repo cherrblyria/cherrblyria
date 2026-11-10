@@ -23,7 +23,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=16&pause=1000&color=DADADA&width=435&lines=Featured+Projects+%E2%9C%A8;Actually+all+of+my+projects+%F0%9F%99%83;I+only+have+a+few+projects+%F0%9F%92%95)](https://git.io/typing-svg)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=cherrblyria&repo=cherrblyria%2Fkawa&theme=github_dark_dimmed)](https://github.com/cherrblyria/kawa) [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=cherrblyria&repo=cherrblyria.github.io&theme=github_dark_dimmed)](https://github.com/cherrblyria/cherrblyria.github.io) [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=cherrblyria&repo=cherrblyria%2Fpymoro&theme=github_dark_dimmed)](https://github.com/cherrblyria/pymoro) [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=cherrblyria&repo=stary&theme=github_dark_dimmed)](https://github.com/cherrblyria/stary)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=cherrblyria&repo=cherrblyria.github.io&theme=github_dark_dimmed)](https://github.com/cherrblyria/cherrblyria.github.io) [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=cherrblyria&repo=cherrblyria%2Fkawa&theme=github_dark_dimmed)](https://github.com/cherrblyria/kawa) [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=cherrblyria&repo=cherrblyria%2Fpymoro&theme=github_dark_dimmed)](https://github.com/cherrblyria/pymoro) [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=cherrblyria&repo=stary&theme=github_dark_dimmed)](https://github.com/cherrblyria/stary)
 
 ---
 
